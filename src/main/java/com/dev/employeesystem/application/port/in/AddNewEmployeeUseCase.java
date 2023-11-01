@@ -1,6 +1,6 @@
-package com.dev.cateensystem.application.port.in;
+package com.dev.employeesystem.application.port.in;
 
-import com.dev.cateensystem.application.domain.commands.CreateNewEmployeeCommand;
+import com.dev.employeesystem.application.domain.commands.CreateNewEmployeeCommand;
 
 /**
  * @author Rupesh Dangi

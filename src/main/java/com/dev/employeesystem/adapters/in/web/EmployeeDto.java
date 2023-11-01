@@ -1,6 +1,6 @@
-package com.dev.cateensystem.adapters.in.web;
+package com.dev.employeesystem.adapters.in.web;
 
-import com.dev.cateensystem.application.domain.model.Employee;
+import com.dev.employeesystem.application.domain.model.Employee;
 import lombok.Getter;
 
 /**

@@ -1,8 +1,8 @@
-package com.dev.cateensystem.application.domain.service;
+package com.dev.employeesystem.application.domain.service;
 
-import com.dev.cateensystem.application.domain.model.Employee;
-import com.dev.cateensystem.application.port.in.EmployeeRetrievalUseCase;
-import com.dev.cateensystem.application.port.out.FetchEmployeeById;
+import com.dev.employeesystem.application.domain.model.Employee;
+import com.dev.employeesystem.application.port.in.EmployeeRetrievalUseCase;
+import com.dev.employeesystem.application.port.out.FetchEmployeeById;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

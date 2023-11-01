@@ -1,6 +1,6 @@
-package com.dev.cateensystem.adapters.in.web;
+package com.dev.employeesystem.adapters.in.web;
 
-import com.dev.cateensystem.application.domain.service.EmployeeQueryService;
+import com.dev.employeesystem.application.domain.service.EmployeeQueryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

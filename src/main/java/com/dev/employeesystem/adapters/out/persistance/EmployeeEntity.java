@@ -1,4 +1,4 @@
-package com.dev.cateensystem.adapters.out.persistance;
+package com.dev.employeesystem.adapters.out.persistance;
 
 import lombok.*;
 

@@ -1,6 +1,6 @@
-package com.dev.cateensystem.application.port.out;
+package com.dev.employeesystem.application.port.out;
 
-import com.dev.cateensystem.application.domain.model.Employee;
+import com.dev.employeesystem.application.domain.model.Employee;
 
 /**
  * @author Rupesh Dangi

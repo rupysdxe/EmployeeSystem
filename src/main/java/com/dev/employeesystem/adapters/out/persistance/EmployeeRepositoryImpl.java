@@ -1,8 +1,8 @@
-package com.dev.cateensystem.adapters.out.persistance;
+package com.dev.employeesystem.adapters.out.persistance;
 
-import com.dev.cateensystem.application.domain.model.Employee;
-import com.dev.cateensystem.application.port.out.FetchEmployeeById;
-import com.dev.cateensystem.application.port.out.PersistEmployee;
+import com.dev.employeesystem.application.domain.model.Employee;
+import com.dev.employeesystem.application.port.out.FetchEmployeeById;
+import com.dev.employeesystem.application.port.out.PersistEmployee;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

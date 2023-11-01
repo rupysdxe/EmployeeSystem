@@ -1,4 +1,4 @@
-package com.dev.cateensystem;
+package com.dev.employeesystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

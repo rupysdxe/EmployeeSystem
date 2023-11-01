@@ -1,6 +1,6 @@
-package com.dev.cateensystem.application.port.in;
+package com.dev.employeesystem.application.port.in;
 
-import com.dev.cateensystem.application.domain.model.Employee;
+import com.dev.employeesystem.application.domain.model.Employee;
 
 /**
  * Use case for retrieving Employee entities.

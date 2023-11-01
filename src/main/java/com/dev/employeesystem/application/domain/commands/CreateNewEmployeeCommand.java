@@ -1,4 +1,4 @@
-package com.dev.cateensystem.application.domain.commands;
+package com.dev.employeesystem.application.domain.commands;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

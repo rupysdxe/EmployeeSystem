@@ -1,4 +1,4 @@
-package com.dev.cateensystem.application.domain.model;
+package com.dev.employeesystem.application.domain.model;
 
 import lombok.Getter;
 import lombok.Setter;
