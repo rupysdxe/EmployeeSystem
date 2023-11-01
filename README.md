@@ -57,6 +57,10 @@ To run this project locally, follow these steps:
 
 - **GET /api/v1/employees/{id}**: Retrieve an employee record by ID.
 
+## Folder Structure 
+
+<img width="418" alt="Screenshot 2023-11-01 at 6 35 13 PM" src="https://github.com/rupysdxe/EmployeSystem/assets/83266954/ea3b47e3-2756-4742-9863-308666d783e0">
+
 ## Dependencies
 
 List any external libraries, frameworks, or tools used in this project.
